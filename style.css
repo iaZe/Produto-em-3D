@@ -239,6 +239,10 @@ main {
     background-color: #2980b9;
     border: 4.5px solid #2980b9;
 }
+.color.white {
+    background-color: #fff;
+    border: 4.5px solid #fff;
+}
 .color.black {
     background-color: #333;
     border: 4.5px solid #333;
@@ -246,6 +250,10 @@ main {
 .color.red {
     background-color: #b92929;
     border: 4.5px solid #b92929;
+}
+.color.pink {
+    background-color: #ee625f;
+    border: 4.5px solid #ee625f;
 }
 
 .color.active {
